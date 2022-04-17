@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danthor11
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, react JS and node JS-
 
 <!---
 danthor11/danthor11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
